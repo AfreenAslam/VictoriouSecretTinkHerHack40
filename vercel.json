@@ -1,0 +1,15 @@
+{
+  "version": 2,
+  "builds": [
+    { "src": "api/*.js", "use": "@vercel/node" }
+  ],
+  "routes": [
+    { "src": "/api/items", "dest": "/api/items.js" },
+    { "src": "/api/seller-active", "dest": "/api/seller-active.js" },
+    { "src": "/api/seller-orders", "dest": "/api/seller-orders.js" },
+    { "src": "/api/add", "dest": "/api/add.js" },
+    { "src": "/api/buy", "dest": "/api/buy.js" },
+    { "src": "/api/init-db", "dest": "/api/init-db.js" },
+    { "src": "/(.*)", "dest": "/public/$1" }
+  ]
+}

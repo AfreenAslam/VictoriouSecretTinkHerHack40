@@ -30,3 +30,4 @@ coverage/
 # Public
 /public/*.tmp
 /public/*.bak
+.vercel
