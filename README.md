@@ -2,27 +2,27 @@
   <img src="./img.png" alt="Project Banner" width="100%">
 </p>
 
-# [Project Name] 🎯
+# [WasteLess] 🎯
 
 ## Basic Details
 
-### Team Name: [Name]
+### Team Name: [Victorious Secret]
 
 ### Team Members
-- Member 1: [Name] - [College]
-- Member 2: [Name] - [College]
+- Member 1: [Afreen Aslam] - [ICCS College of Engineering and Management]
+- Member 2: [Rosesaniya P X] - [ICCS College of Engineering and Management]
 
 ### Hosted Project Link
-[mention your project hosted link here]
+[ https://victorious-secret-tink-her-hack-4-0.onrender.com/ ]
 
 ### Project Description
-[2-3 lines about what your project does]
+[WasteLess is a simple web app that connects local food shops with customers to save food from going to the landfill. It allows shop owners to quickly list surplus items at a discount, helping them earn back money on stock that would otherwise be lost, while giving buyers access to affordable food. Built with real-time technology, the app instantly notifies users of new deals, making it easy for the community to work together to reduce food waste while putting extra profit back into the hands of small businesses.]
 
 ### The Problem statement
-[What problem are you solving?]
+[Every year, local food vendors like bakeries and cafes are forced to discard high-quality, unsold inventory at the end of the day. This leads to significant financial loss for small businesses and contributes to the global environmental crisis of food waste, while many local consumers struggle to find affordable, fresh food options nearby.]
 
 ### The Solution
-[How are you solving it?]
+[WasteLess is a real-time web marketplace that connects vendors with local buyers. Sellers can instantly list surplus inventory at a discounted price, and buyers can claim these items for immediate pickup. By using live notifications, the platform ensures that food is sold and consumed rather than wasted, helping businesses recover revenue and reducing the community's environmental footprint.]
 
 ---
 
@@ -31,25 +31,25 @@
 ### Technologies/Components Used
 
 **For Software:**
-- Languages used: [e.g., JavaScript, Python, Java]
-- Frameworks used: [e.g., React, Django, Spring Boot]
-- Libraries used: [e.g., axios, pandas, JUnit]
-- Tools used: [e.g., VS Code, Git, Docker]
+- Languages used: [JavaScript (ES6+), HTML5, CSS3.]
+- Frameworks used: [Express.js (Node.js backend framework), Tailwind CSS (Utility-first CSS framework).]
+- Libraries used: [Socket.io (for real-time, bi-directional communication), SQLite3 & SQLite (for asynchronous database management).]
+- Tools used: [VS Code (Code Editor), Node Package Manager (NPM), Browser Developer Tools (for debugging).]
 
 **For Hardware:**
-- Main components: [List main components]
-- Specifications: [Technical specifications]
-- Tools required: [List tools needed]
+- Main components: [Personal Computer / Laptop (Host Server)]
+- Specifications: [tandard processor (i3/i5/i7 or equivalent), 4GB+ RAM, Internet connection.]
+- Tools required: [Modern Web Browser (Chrome/Edge/Firefox).]
 
 ---
 
 ## Features
 
 List the key features of your project:
-- Feature 1: [Description]
-- Feature 2: [Description]
-- Feature 3: [Description]
-- Feature 4: [Description]
+- Feature 1: [Category-Based Filtering – A dynamic navigation bar (Food, Bakery, Groceries, etc.) that allows buyers to find specific types of deals quickly.]
+- Feature 2: [Real-Time Status Tracking – A "Live Notifications" panel and "My Active Listings" section for sellers to monitor product availability and incoming claims as they happen.]
+- Feature 3: [Interactive Claim Workflow – A secure popup system for buyers to enter contact details, followed by a professional "Item Reserved" receipt showing pickup deadlines and location data.]
+- Feature 4: [Deadline Management – Each product card clearly displays a "Pickup Deadline" (e.g., "UNTIL 10 PM"), creating an organized and time-sensitive marketplace experience.]
 
 ---
 
@@ -59,12 +59,12 @@ List the key features of your project:
 
 #### Installation
 ```bash
-[Installation commands - e.g., npm install, pip install -r requirements.txt]
+[ npm install, pip install -r requirements.txt]
 ```
 
 #### Run
 ```bash
-[Run commands - e.g., npm start, python app.py]
+[node server.js]
 ```
 
 ### For Hardware:
@@ -83,25 +83,22 @@ List the key features of your project:
 
 #### Screenshots (Add at least 3)
 
-![Screenshot1](Add screenshot 1 here with proper name)
-*Add caption explaining what this shows*
+![<img width="1396" height="695" alt="Screenshot 2026-02-21 060809" src="https://github.com/user-attachments/assets/63b95c94-2de7-487b-8317-0fcf4f22f882" /> ]
+Buyers claiming area 
 
-![Screenshot2](Add screenshot 2 here with proper name)
-*Add caption explaining what this shows*
-
-![Screenshot3](Add screenshot 3 here with proper name)
-*Add caption explaining what this shows*
-
+![<img width="1919" height="970" alt="Screenshot 2026-02-21 060826" src="https://github.com/user-attachments/assets/53dd46fd-1f32-449d-8f8d-b980031bdd4c" />]
+how it will be shoed after claiming
+![<img width="1902" height="963" alt="Screenshot 2026-02-21 060849" src="https://github.com/user-attachments/assets/06069dcc-3184-4c76-a691-f65aff80c178" />]
+senders point of selling area
 #### Diagrams
 
 **System Architecture:**
 
-![Architecture Diagram](docs/architecture.png)
-*Explain your system architecture - components, data flow, tech stack interaction*
+![Architecture Diagram](<img width="627" height="298" alt="rchitecture" src="https://github.com/user-attachments/assets/3cf58278-1475-47a1-953a-3262a812347f" />)
 
 **Application Workflow:**
 
-![Workflow](docs/workflow.png)
+![Workflow](<img width="1104" height="701" alt="dataflow" src="https://github.com/user-attachments/assets/7d725475-e766-4a0c-a7de-0dd255759c6e" />)
 *Add caption explaining your workflow*
 
 ---
@@ -361,9 +358,9 @@ python script.py -v --format json data.json
 ## Project Demo
 
 ### Video
-[Add your demo video link here - YouTube, Google Drive, etc.]
+[(https://drive.google.com/drive/folders/17HmXDW4kaKMSqEqzJ7W9GJ-mib-r-hf2?usp=sharing)]
 
-*Explain what the video demonstrates - key features, user flow, technical highlights*
+working model of project
 
 ### Additional Demos
 [Add any extra demo materials/links - Live site, APK download, online demo, etc.]
